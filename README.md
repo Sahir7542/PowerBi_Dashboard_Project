@@ -1,6 +1,6 @@
 # PowerBi_Dashboard_Project
 This is My First Project
-**This project id end to end encrypted**.
+**This project is end to end encrypted**.
 You’ve just been hired as a Business Intelligence Analyst by AdventureWorks*, a global
 manufacturing company that produces cycling equipment and accessories.
 The management team needs a way to track KPIs (sales, revenue, profit, returns), compare
